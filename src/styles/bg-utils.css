@@ -1,0 +1,18 @@
+.bg-one {
+  background-color: var(--color-one);
+}
+.bg-two {
+  background-color: var(--color-two);
+}
+.bg-three {
+  background-color: var(--color-three);
+}
+.bg-white {
+  background-color: var(--color-white);
+}
+.bg-black {
+  background-color: var(--color-black);
+}
+.bg-orange {
+  background-color: var(--color-orange);
+}

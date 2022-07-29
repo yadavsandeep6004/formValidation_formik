@@ -1,0 +1,6 @@
+.toggle button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

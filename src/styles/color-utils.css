@@ -1,0 +1,18 @@
+.text-one {
+  color: var(--color-one);
+}
+.text-two {
+  color: var(--color-two);
+}
+.text-three {
+  color: var(--color-three);
+}
+.text-white {
+  color: var(--color-white);
+}
+.text-black {
+  color: var(--color-black);
+}
+.text-orange {
+  color: var(--color-orange);
+}
